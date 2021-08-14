@@ -12,6 +12,10 @@ the current scenario, advancement in technologies are such that they can perform
 with same effectiveness or can say more effectively than us. By making this project, I
 realized that the concept of AI in every field is decreasing human effort and saving time.
 
+# Requirements 
+Python 3.9 or above⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+pip install -r requirements.txt
+
 ## Authors
 
 - [@brokiemag](https://www.github.com/brokiemag)
